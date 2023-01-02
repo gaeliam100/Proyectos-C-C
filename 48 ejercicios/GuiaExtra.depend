@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671918670 source:c:\users\ixsych4ron\desktop\ejmp\guiaextra\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<string.h>
+	<cctype>
+	<fstream>
+
